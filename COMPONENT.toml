@@ -3,7 +3,7 @@ name = "SigmaOS-cvs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "cvs component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
